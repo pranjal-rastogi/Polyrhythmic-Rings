@@ -1,10 +1,8 @@
 # Polyrhythmic Rings
 
-<img  src="https://raw.githubusercontent.com/abjt14/polyrhythmic-rings/main/preview_720x450.gif"  width=100%  height=100%>
 
 Relaxing tunes and visuals to help you focus, meditate, or sleep. Project inspired by [Hyperplexed's video](https://www.youtube.com/watch?v=Kt3DavtVGVE) on their YouTube channel.
 
-You can read more about the project [here](https://www.abjt.dev/lab/polyrhythmic-rings) on my website.
 
 ## Built Using
 
@@ -13,16 +11,7 @@ You can read more about the project [here](https://www.abjt.dev/lab/polyrhythmic
 - [Framer Motion](https://www.framer.com/motion/)
 - [Radix UI](https://www.radix-ui.com/)
 
-## Installation
 
-> Note: You need to have Node.js and npm installed on your machine before following these steps.
-
-```
-git clone https://github.com/abjt14/polyrhythmic-rings.git
-cd polyrhythmic-rings
-npm install
-npm run dev
-```
 
 Now, open your browser and navigate to `http://localhost:3000` to see the application running.
 
