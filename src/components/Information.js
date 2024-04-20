@@ -8,13 +8,7 @@ function Information({}) {
       </h1>
       <p>
         Built by{" "}
-        <Link
-          href={"https://www.abjt.dev/"}
-          className="underline underline-offset-4 hover:text-neutral-200 transition-colors duration-150 ease-in-out"
-        >
-          Pranjal
-        </Link>
-        , this application is made using Next.js, SVG Filters, SVG Animations,
+        Pranjal, this application is made using Next.js, SVG Filters, SVG Animations,
         Framer Motion, and Radix UI. Project inspired by{" "}
         <Link
           href={"https://www.youtube.com/watch?v=Kt3DavtVGVE"}
@@ -23,17 +17,10 @@ function Information({}) {
         >
           Hyperplexed&apos;s video
         </Link>{" "}
-        on their YouTube channel. You can read more about it{" "}
-        <Link
-          href="https://www.abjt.dev/lab/polyrhythmic-rings"
-          className="underline underline-offset-4 hover:text-neutral-200 transition-colors duration-150 ease-in-out"
-        >
-          here
-        </Link>{" "}
-        on my website.
+        on their YouTube channel.
       </p>
       <Link
-        href={"https://github.com/abjt14/polyrhythmic-rings"}
+        href={"https://github.com/pranjal-rastogi/Polyrhythmic-Rings/tree/main"}
         target="_blank"
         className="w-fit self-end px-3 py-1 rounded-full bg-neutral-950 border border-neutral-700 hover:text-neutral-200 transition-colors duration-150 ease-in-out"
       >
